@@ -1,7 +1,7 @@
 ![Made-love][made-love-shield]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# YoloV4
+# YoloV4 custom object detector
 
 ![YoloV4][product-screenshot]
 
