@@ -4,7 +4,7 @@
 # YoloV4 custom object detector
 
 ![YoloV4][product-screenshot]
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davertor/YoloV4_custom_training/blob/master/Object_Detection_Yolov4_Darknet.ipynb)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KKPFxpYfIyrgBGxB0wGnERGpBWMVoDFt?usp=sharing)
 
 Google colab notebook for training a YoloV4 custom object detection model. For using it, go to Google colab and introduce the following link: https://github.com/davertor/YoloV4
 
